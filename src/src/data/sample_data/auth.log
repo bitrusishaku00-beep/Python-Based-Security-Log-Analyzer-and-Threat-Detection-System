@@ -1,0 +1,10 @@
+
+Nov 17 09:00:00 server sshd[1001]: Failed password for invalid user admin from 192.0.2.10 port 50101 ssh2
+Nov 17 09:01:00 server sshd[1002]: Failed password for invalid user guest from 192.0.2.10 port 50102 ssh2
+Nov 17 09:02:00 server sshd[1003]: Failed password for invalid user test from 192.0.2.10 port 50103 ssh2
+Nov 17 09:03:00 server sshd[1004]: Failed password for invalid user root from 192.0.2.10 port 50104 ssh2
+Nov 17 09:04:00 server sshd[1005]: Failed password for invalid user student from 192.0.2.10 port 50105 ssh2
+Nov 17 09:05:00 server sshd[1006]: Accepted password for john from 192.0.2.20 port 50106 ssh2
+Nov 17 09:06:00 server sudo[1007]: john : COMMAND=/usr/bin/apt update
+Nov 17 09:07:00 server sshd[1008]: Accepted publickey for mary from 192.0.2.30 port 50108 ssh2
+This is a deliberately malformed sample record for parser testing.
